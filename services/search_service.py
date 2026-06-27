@@ -19,7 +19,7 @@ def search_claim(claim: str):
 
         search_depth="advanced",
 
-        max_results=5,
+        max_results=2,
 
         include_answer=True,
 
