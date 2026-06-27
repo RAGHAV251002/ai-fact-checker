@@ -5,7 +5,7 @@ An AI-powered web application that automatically extracts factual claims from PD
 ## 🚀 Live Demo
 
 **Streamlit App:**
-https://ai-fact-checker-kg9wjq6gt9brsauzkedh36.streamlit.app/
+https://ai-fact-checker-yuzvbgavppcsh88zkbpdsf.streamlit.app/
 
 **GitHub Repository:**
 https://github.com/RAGHAV251002/ai-fact-checker/tree/main
