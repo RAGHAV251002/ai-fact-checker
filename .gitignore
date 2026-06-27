@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (API Keys)
+.env
+
+# Generated outputs
+outputs/
+
+# Streamlit files
+.streamlit/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS files (optional)
+.DS_Store
